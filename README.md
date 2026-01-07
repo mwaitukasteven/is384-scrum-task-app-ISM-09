@@ -13,4 +13,4 @@ This project is a simple cloud-based task management application developed using
 | IDDY SAIDI IDDY | 31524/T.2023 | Developer |
 | Ronard Emmanuel Nanyaro | 32099/2023 | Developer |
 | SHABANI HUSSEIN NDEKUPE | 30554/T.2023 | Developer |
-| Victor Sostenes Mpambije | 32162/T.2023 | Developer |
+| VICTOR SOSTENES MPAMBIJE| 32162/T.2023 | Developer |
