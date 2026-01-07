@@ -6,7 +6,7 @@
 |----|----|----|
 | STEPHEN ANYIGULILE MWAITUKA| 32143/T.2023 | Product Owner |
 | Kuruthum Said Jeremiah | 31334/T.2023 | Scrum Master |
-| Iddy Saidi Iddy | 31524/T.2023 | Developer |
+| IDDY SAIDI IDDY | 31524/T.2023 | Developer |
 | Ronard Emmanuel Nanyaro | 32099/2023 | Developer |
 | Shabani Hussein Ndekupe | 30554/T.2023 | Developer |
 | Victor Sostenes Mpambije | 32162/T.2023 | Developer |
