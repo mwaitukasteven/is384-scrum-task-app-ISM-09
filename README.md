@@ -1,3 +1,5 @@
-# is384-scrum-task-app-ISM-09
-             GROUP MEMBERS 
-1. SHABANI HUSSEIN NDEKUPE- 30554/T.2023
+
+
+
+## Scrum Simulation
+The project simulates a one-sprint Scrum workflow including sprint planning, daily scrums, sprint review, and retrospective.
