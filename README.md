@@ -9,7 +9,7 @@ This project is a simple cloud-based task management application developed using
 | Name | Registration Number | Scrum Role |
 
 | STEPHEN ANYIGULILE MWAITUKA| 32143/T.2023 | Product Owner |
-| Kuruthum Said Jeremiah | 31334/T.2023 | Scrum Master |
+| KURUTHUM SAID JEREMIA | 31334/T.2023 | Scrum Master |
 | Iddy Saidi Iddy | 31524/T.2023 | Developer |
 | Ronard Emmanuel Nanyaro | 32099/2023 | Developer |
 | SHABANI HUSSEIN NDEKUPE | 30554/T.2023 | Developer |
