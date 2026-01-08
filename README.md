@@ -7,6 +7,12 @@
 ## Project Description
 This project is a simple cloud-based task management application developed using Scrum methodology. The app allows users to create tasks, assign them to users, and track task completion.
 
+## Target Users
+- University students
+- Project teams
+- Small organizations
+
+
              GROUP MEMBERS 
 | Name | Registration Number | Scrum Role |
 |------|-------------------|------------|
