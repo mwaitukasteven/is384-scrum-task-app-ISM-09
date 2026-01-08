@@ -12,10 +12,17 @@ This project is a simple cloud-based task management application developed using
 
 | STEPHEN ANYIGULILE MWAITUKA| 32143/T.2023 | Product Owner |
 | Kuruthum Said Jeremiah | 31334/T.2023 | Scrum Master |
-| Iddy Saidi Iddy | 31524/T.2023 | Developer |
+<<<<<<<<< Temporary merge branch 1
+| Iddy Saidi Iddy | 31524/T.2023 | Developer 1|
+| Ronard Emmanuel Nanyaro | 32099/2023 | Developer 2|
+| SHABANI HUSSEIN NDEKUPE | 30554/T.2023 | Developer 3|
+| VICTOR SOSTENES MPAMBIJE| 32162/T.2023 | Developer 4|
+=========
+| IDDY SAIDI IDDY | 31524/T.2023 | Developer |
 | Ronard Emmanuel Nanyaro | 32099/2023 | Developer |
 | SHABANI HUSSEIN NDEKUPE | 30554/T.2023 | Developer |
 | VICTOR SOSTENES MPAMBIJE| 32162/T.2023 | Developer |
 
 ## Scrum Simulation
 The project simulates a one-sprint Scrum workflow including sprint planning, daily scrums, sprint review, and retrospective.
+>>>>>>>>> Temporary merge branch 2
