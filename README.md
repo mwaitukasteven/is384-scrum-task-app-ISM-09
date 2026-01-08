@@ -14,7 +14,7 @@ This project is a simple cloud-based task management application developed using
 | SHABAN HUSSEIN NDEKUPE| 31239/T.2023 | Developer 1 |
 | KURUTHUM SAID JEREMIAH| 30489/T.2023 | Developer 2 |
 | VICTOR SOSTENES MPAMBIJE | 31148/T.2023 | Developer 3 |
-| STEPHENE ANYIGAULILE MWAITUKA | 32001/T.2023 | Developer 4 |
+| STEPHEN ANYIGAULILE MWAITUKA | 32143/T.2023 | Developer 4 |
 
 ## Scrum Simulation
 The project simulates a one-sprint Scrum workflow including sprint planning, daily scrums, sprint review, and retrospective.
