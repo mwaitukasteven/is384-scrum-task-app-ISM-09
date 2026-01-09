@@ -1,13 +1,10 @@
 
-## Product Backlog Items
-
-| ID | Backlog Item | Priority |
-|----|--------------|----------|
-| PB1 | Gather and analyze system requirements | High |
-| PB2 | Design system architecture | High |
-| PB3 | Design database schema | High |
-| PB4 | Create user authentication module | Medium |
-| PB5 | Design student registration interface | Medium |
+## Product Backlog
+- User registration
+- User login
+- Add new task
+- Assign task to user
+- Mark task as complete
 
 ---
 
@@ -16,7 +13,7 @@
 | Task | Assigned Member |
 |------|----------------|
 | Requirement analysis | Stephen Anyigulile Mwaituka |
-| Sprint coordination and facilitation | Kuruthum Said Jeremiah |
+| Sprint coordination and facilitation | Kuruthum Said Jeremia |
 | Database design | Iddy Saidi Iddy |
 | Authentication design | Ronard Emmanuel Nanyaro |
 | Registration interface design | Shabani Hussein Ndekupe |
@@ -24,14 +21,14 @@
 
 ---
 
+## Sprint Goal
+To design and implement the basic features of the Cloud-Based Task Management App, focusing on requirement analysis, system design, and initial implementation.
+
+---
+
 ## Definition of Done
-- Task is completed and reviewed
+- feature implemented
 - Changes are committed to GitHub
 - Pull Request is created
 - Pull Request is reviewed and merged into the main branch
 - No critical errors remain
-
----
-
-## Sprint Goal
-To design and implement the basic features of the Student Registration System, focusing on requirement analysis, system design, and initial implementation.
