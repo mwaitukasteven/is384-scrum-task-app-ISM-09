@@ -1,4 +1,5 @@
 
+
              GROUP MEMBERS 
 | Name | Registration Number | Scrum Role |
 |------|-------------------|------------|
@@ -30,3 +31,11 @@ The Scrum Master facilitates Scrum events, ensures that Scrum principles are fol
 - *Daily Scrum:* A short daily meeting to track progress and identify blockers.
 - *Sprint Review:* A session to demonstrate completed work to stakeholders.
 - *Sprint Retrospective:* A meeting to reflect on the sprint and improve future performance
+
+
+
+## Scrum Artifacts
+
+- *Product Backlog:* A prioritized list of project requirements.
+- *Sprint Backlog:* Tasks selected for the current sprint.
+- *Increment:* A potentially releasable product version at the end of the sprint.
