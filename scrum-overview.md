@@ -14,8 +14,8 @@
 
  Scrum Roles
 
- Product Owner
+### Product Owner
 The Product Owner is responsible for defining project requirements, prioritizing the product backlog, and ensuring that the final product delivers value to stakeholders.
 
- Scrum Master
-The Scrum Master facilitates Scrum events, ensures that Scrum principles are followed, and removes any obstacles that may affect the development team.
+### Scrum Master
+The Scrum Master facilitates Scrum events, ensures that Scrum principles are followed, and removes any obstacles that may affect the development team
