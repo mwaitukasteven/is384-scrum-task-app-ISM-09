@@ -15,4 +15,4 @@
 | STEPHEN ANYIGULILE MWAITUKA | 32143/T.2023 | Developer 4 |
 
 ## Project Description
-This project is a simple cloud-based task management application developed using Scrum methodology. The app allows users to create tasks, assign them to users, and track task completion.
+This project is a simple cloud-based task management application developed using Scrum methodology. The app allows users to create tasks, assign them to users, and a track task completion.
