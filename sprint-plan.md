@@ -1,15 +1,37 @@
-## Sprint Priorities
 
-Priority is given to core features that enable users to manage tasks easily.
+## Product Backlog Items
 
-1. Task creation must be simple and fast
-2. Task assignment should support multiple users
-3. Task completion status must update in real time
-4. Interface should be clean and user friendly
-5. Notifications are secondary if time allows
+| ID | Backlog Item | Priority |
+|----|--------------|----------|
+| PB1 | Gather and analyze system requirements | High |
+| PB2 | Design system architecture | High |
+| PB3 | Design database schema | High |
+| PB4 | Create user authentication module | Medium |
+| PB5 | Design student registration interface | Medium |
 
-## Refined Sprint Goal
+---
 
-Deliver a functional task management system that enables users to create,
-assign and track tasks with minimal effort.
+## Sprint Backlog and Task Assignment
 
+| Task | Assigned Member |
+|------|----------------|
+| Requirement analysis | Stephen Anyigulile Mwaituka |
+| Sprint coordination and facilitation | Kuruthum Said Jeremiah |
+| Database design | Iddy Saidi Iddy |
+| Authentication design | Ronard Emmanuel Nanyaro |
+| Registration interface design | Shabani Hussein Ndekupe |
+| Documentation support | Victor Sostenes Mpambije |
+
+---
+
+## Definition of Done
+- Task is completed and reviewed
+- Changes are committed to GitHub
+- Pull Request is created
+- Pull Request is reviewed and merged into the main branch
+- No critical errors remain
+
+---
+
+## Sprint Goal
+To design and implement the basic features of the Student Registration System, focusing on requirement analysis, system design, and initial implementation.
