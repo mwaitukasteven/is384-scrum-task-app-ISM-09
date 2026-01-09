@@ -11,3 +11,8 @@
 | STEPHEN ANYIGULILE MWAITUKA | 32143/T.2023 | Developer 4 |
 
 ---
+
+ Scrum Roles
+
+ Product Owner
+The Product Owner is responsible for defining project requirements, prioritizing the product backlog, and ensuring that the final product delivers value to stakeholders.
